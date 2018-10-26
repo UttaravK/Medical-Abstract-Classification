@@ -1,4 +1,4 @@
-# Medical-Abstract-Classification
+# Medical Abstract Classification
 
 ### Technologies: Scikit-Learn, Pandas, Numpy, NLTK, Model: SGD Classifier
 
